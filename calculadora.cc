@@ -19,7 +19,7 @@ int main(){
 	char op;
 	do{
 		//he quitado el ; para provocar fallo
-		printf(_("Introduce el primer numero:"))
+		printf(_("Introduce el primer numero:"));
 		cin>> n1;
 		printf(_("Introduce la operacion a realizar: "));
 		cin>>op;
