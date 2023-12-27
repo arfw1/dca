@@ -25,6 +25,7 @@ int main(){
 		cin>>op;
 		printf(_("Introduce el segundo numero:"));
 		cin>> n2;
+		//otro comentario
 	}while(op!='+' && op!='*' && op!='-' && op!='/');
 
 	switch(op){
