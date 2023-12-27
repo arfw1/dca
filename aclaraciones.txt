@@ -1,0 +1,18 @@
+Realizado por Adam Roy Frederick William Reading Y2483358Q
+
+comandos
+
+compilar: g++ -o calculadora calculadora.cc
+
+ejecutaciones:
+
+PARA INGLÉS:
+    LANGUAGE=en_GB ./calculadora
+
+
+PARA ALEMAN:
+    LANGUAGE=de_DE ./calculadora
+
+
+PARA ITALIANO:
+    LANGUAGE=it_IT ./calculadora
