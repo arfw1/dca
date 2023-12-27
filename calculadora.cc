@@ -10,7 +10,6 @@ int main(){
 	string localedir;
     
 	localedir = "po";
-     
 
 	setlocale(LC_ALL,""); // si el segundo argumento está vacío, coge el lenguaje del entorno
 	bindtextdomain("calculadora",localedir.c_str()); //segundo argumento es la carpeta raiz de donde se encuentra el .mo. Para la entrega creamos una carpeta po/en_GB/LC_MESSAGES/archivo.mo
